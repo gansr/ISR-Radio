@@ -1,2 +1,2 @@
 # IsrRadioChromeExtension
-Chrome Extension - for streaming audio from radio stations.
+Chrome Extension - Streaming audio from online radio stations.
