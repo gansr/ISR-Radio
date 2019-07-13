@@ -1,2 +1,2 @@
 # IsrRadioChromeExtension
-Chrome Extension - Streaming audio from online radio stations.
+Chrome Extension - Listen online to top Israel radio stations.
